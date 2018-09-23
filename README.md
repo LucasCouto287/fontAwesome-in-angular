@@ -27,3 +27,8 @@ export class AppComponent {
   faCoffee = faCoffee;
 }
 
+*5-html file :
+
+<div style="text-align:center">
+  <fa-icon [icon]="faCoffee"></fa-icon>
+</div>
